@@ -1,6 +1,6 @@
 # Introduction
 This is a task from Google Code-In.
-Here you learn to obtain something.
+Here you learn to use the simple Cranlogs API to obtain something.
 
 # Requirements
 - R
