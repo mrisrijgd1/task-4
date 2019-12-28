@@ -1,5 +1,6 @@
 # Introduction
-This is a task from Google Code-In
+This is a task from Google Code-In.
+Here you learn to obtain something.
 
 # Requirements
 - R
